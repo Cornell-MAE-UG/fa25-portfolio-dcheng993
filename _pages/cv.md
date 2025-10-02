@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Dani Cheng - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,8 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
-
+**Email:** [dc993@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +917 994 5147
 ---
 
 #### Objective
